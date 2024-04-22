@@ -3,7 +3,7 @@
 This project aims to collect data for top movies and TV shows, clean and prepare the data, perform exploratory data analysis (EDA) using Plotly, and build a recommendation system using collaborative filtering with cosine similarity. Additionally, a dashboard will be created using Plotly Dash and deployed on Render..
 
 
-![IMDb Dashboard](assets/dashboard_Screenshot.jpeg)
+![IMDb Dashboard](https://github.com/mohamedelsayed10/IMDb-analysis-For-Top-Movies-and-Series/assets/87568101/7a57a892-6aad-48aa-8ec0-65640120f869)
 
 ## Features
 ## Overview
